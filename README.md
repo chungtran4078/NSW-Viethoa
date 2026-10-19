@@ -4,11 +4,11 @@ Repo chứa file Việt hóa cho một số game Nintendo Switch, đóng gói th
 
 ## Danh sách game
 
-| Game | Title ID | Thư mục |
-| --- | --- | --- |
-| 1-2-Switch | `01000320000CC000` | `1-2-Switch/` |
-| Clubhouse Games: 51 Worldwide Classics | `010047700D540000` | `Clubhouse Games_ 51 Worldwide Classics/` |
-| Unravel Two | `0100E5D00CC0C000` | `Unravel TWO/` |
+| Game | Phiên bản | Title ID | Thư mục |
+| --- | --- | --- | --- |
+| 1-2-Switch | 1.1.0 | `01000320000CC000` | `1-2-Switch 1.1.0/` |
+| Clubhouse Games: 51 Worldwide Classics | 1.1.3 | `010047700D540000` | `Clubhouse Games_ 51 Worldwide Classics 1.1.3/` |
+| Unravel Two | 1.0.1 | `0100E5D00CC0C000` | `Unravel TWO 1.0.1/` |
 
 ## Yêu cầu
 
@@ -29,7 +29,7 @@ Repo chứa file Việt hóa cho một số game Nintendo Switch, đóng gói th
    ```
 4. Copy thư mục **Title ID** của game cần Việt hóa vào `atmosphere/contents/`.
 
-   Ví dụ với 1-2-Switch:
+   Ví dụ với thư mục `1-2-Switch 1.1.0`:
    ```
    atmosphere/contents/01000320000CC000/romfs/NX32/...
    ```
