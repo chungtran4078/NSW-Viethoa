@@ -9,6 +9,8 @@ Repo chứa file Việt hóa cho một số game Nintendo Switch, đóng gói th
 | 1-2-Switch | 1.1.0 | `01000320000CC000` | `1-2-Switch 1.1.0/` |
 | Clubhouse Games: 51 Worldwide Classics | 1.1.3 | `010047700D540000` | `Clubhouse Games_ 51 Worldwide Classics 1.1.3/` |
 | Unravel Two | 1.0.1 | `0100E5D00CC0C000` | `Unravel TWO 1.0.1/` |
+| 30-in-1 Game Collection: Volume 1 | 1.0.0 | `0100023009C72000` | `30-in-1 Game Collection_ Volume 1.0.0/` |
+| The Plucky Squire | 1.0.2 | `01006BD018B54000` | `The Plucky Squire 1.0.2/` |
 
 ## Yêu cầu
 
