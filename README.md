@@ -11,6 +11,8 @@ Repo chứa file Việt hóa cho một số game Nintendo Switch, đóng gói th
 | Unravel Two | 1.0.1 | `0100E5D00CC0C000` | `Unravel TWO 1.0.1/` |
 | 30-in-1 Game Collection: Volume 1 | 1.0.0 | `0100023009C72000` | `30-in-1 Game Collection_ Volume 1.0.0/` |
 | The Plucky Squire | 1.0.2 | `01006BD018B54000` | `The Plucky Squire 1.0.2/` |
+| Cars 3: Driven to Win | 1.0.2 | `0100744001588000` | `Cars 3_ Driven to Win 1.0.2/` |
+| Neighbours back From Hell | 1.0.0 | `010065F00F55A000` | `Neighbours back From Hell 1.0.0/` |
 
 ## Yêu cầu
 
