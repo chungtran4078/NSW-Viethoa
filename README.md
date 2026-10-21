@@ -2,19 +2,19 @@
 
 Repo chứa file Việt hóa cho một số game Nintendo Switch, đóng gói theo dạng **LayeredFS** của Atmosphere.
 
-Mỗi game có một file `.zip` cùng tên ở thư mục gốc để tải nhanh toàn bộ thư mục game.
+Repo chỉ chứa file `.zip` cho từng game. Giải nén để lấy thư mục Title ID bên trong.
 
 ## Danh sách game
 
-| Game | Phiên bản | Title ID | Thư mục |
+| Game | Phiên bản | Title ID | File zip |
 | --- | --- | --- | --- |
-| 1-2-Switch | 1.1.0 | `01000320000CC000` | `1-2-Switch 1.1.0/` |
-| Clubhouse Games: 51 Worldwide Classics | 1.1.3 | `010047700D540000` | `Clubhouse Games_ 51 Worldwide Classics 1.1.3/` |
-| Unravel Two | 1.0.1 | `0100E5D00CC0C000` | `Unravel TWO 1.0.1/` |
-| 30-in-1 Game Collection: Volume 1 | 1.0.0 | `0100023009C72000` | `30-in-1 Game Collection_ Volume 1.0.0/` |
-| The Plucky Squire | 1.0.2 | `01006BD018B54000` | `The Plucky Squire 1.0.2/` |
-| Cars 3: Driven to Win | 1.0.2 | `0100744001588000` | `Cars 3_ Driven to Win 1.0.2/` |
-| Neighbours back From Hell | 1.0.0 | `010065F00F55A000` | `Neighbours back From Hell 1.0.0/` |
+| 1-2-Switch | 1.1.0 | `01000320000CC000` | `1-2-Switch 1.1.0.zip` |
+| Clubhouse Games: 51 Worldwide Classics | 1.1.3 | `010047700D540000` | `Clubhouse Games_ 51 Worldwide Classics 1.1.3.zip` |
+| Unravel Two | 1.0.1 | `0100E5D00CC0C000` | `Unravel TWO 1.0.1.zip` |
+| 30-in-1 Game Collection: Volume 1 | 1.0.0 | `0100023009C72000` | `30-in-1 Game Collection_ Volume 1.0.0.zip` |
+| The Plucky Squire | 1.0.2 | `01006BD018B54000` | `The Plucky Squire 1.0.2.zip` |
+| Cars 3: Driven to Win | 1.0.2 | `0100744001588000` | `Cars 3_ Driven to Win 1.0.2.zip` |
+| Neighbours back From Hell | 1.0.0 | `010065F00F55A000` | `Neighbours back From Hell 1.0.0.zip` |
 
 ## Yêu cầu
 
@@ -29,13 +29,10 @@ Mỗi game có một file `.zip` cùng tên ở thư mục gốc để tải nha
 
 1. **Tắt hoàn toàn** Switch (Power → Turn Off), không dùng chế độ Sleep.
 2. Tháo thẻ SD và cắm vào máy tính.
-3. Trong thẻ SD, mở (hoặc tạo nếu chưa có) thư mục:
-   ```
-   atmosphere/contents/
-   ```
-4. Copy thư mục **Title ID** của game cần Việt hóa vào `atmosphere/contents/`.
+3. Tải file `.zip` của game cần Việt hóa ở thư mục gốc của repo và giải nén. Bên trong là thư mục **Title ID**.
+4. Trên thẻ SD, mở (hoặc tạo nếu chưa có) thư mục `atmosphere/contents/`, sau đó copy thư mục **Title ID** vừa giải nén vào đó.
 
-   Ví dụ với thư mục `1-2-Switch 1.1.0`:
+   Ví dụ với `1-2-Switch 1.1.0.zip`:
    ```
    atmosphere/contents/01000320000CC000/romfs/NX32/...
    ```
