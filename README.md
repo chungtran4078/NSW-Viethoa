@@ -2,6 +2,8 @@
 
 Repo chứa file Việt hóa cho một số game Nintendo Switch, đóng gói theo dạng **LayeredFS** của Atmosphere.
 
+Mỗi game có một file `.zip` cùng tên ở thư mục gốc để tải nhanh toàn bộ thư mục game.
+
 ## Danh sách game
 
 | Game | Phiên bản | Title ID | Thư mục |
