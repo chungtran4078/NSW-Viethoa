@@ -16,6 +16,7 @@ Repo chỉ chứa file `.zip` cho từng game. Giải nén để lấy thư mụ
 | Cars 3: Driven to Win | 1.0.2 | `0100744001588000` | `Cars 3_ Driven to Win 1.0.2.zip` |
 | Neighbours back From Hell | 1.0.0 | `010065F00F55A000` | `Neighbours back From Hell 1.0.0.zip` |
 | Mario Kart 8 Deluxe | 3.0.3 | `0100152000022000` | `Mario Kart 8 Deluxe 3.0.3.zip` |
+| ARMS | 5.4.1 | `01009B500007C000` | `ARMS 5.4.1.zip` |
 
 ## Yêu cầu
 
