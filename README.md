@@ -4,6 +4,8 @@ Repo chứa file Việt hóa cho một số game Nintendo Switch, đóng gói th
 
 Repo chỉ chứa file `.zip` cho từng game. Giải nén để lấy thư mục Title ID bên trong.
 
+Muốn Việt hóa game khác? [Tạo Issue yêu cầu tại đây](https://github.com/chungtran4078/NSW-Viethoa/issues/new) — xem mục [Yêu cầu Việt hóa game](#yêu-cầu-việt-hóa-game).
+
 ## Danh sách game
 
 | Game | Phiên bản | Title ID | File zip |
@@ -68,6 +70,16 @@ Xóa thư mục `atmosphere/contents/<TitleID>` trên thẻ SD (hoặc thư mụ
   - Có thể bản Việt hóa không tương thích với phiên bản game đang cài. Hãy xóa thư mục mod và cập nhật/hạ phiên bản game phù hợp.
 - **Sau khi cập nhật game bị mất Việt hóa:**
   - Copy lại thư mục `<TitleID>` vào `atmosphere/contents/` sau mỗi lần cập nhật game.
+
+## Yêu cầu Việt hóa game
+
+Muốn Việt hóa game nào, hãy [tạo Issue mới](https://github.com/chungtran4078/NSW-Viethoa/issues/new) với các thông tin:
+
+- Tên game và **phiên bản** đang chơi (ví dụ: `Mario Kart 8 Deluxe 3.0.3`).
+- **Title ID** của game (xem bằng DBI, Goldleaf hoặc NX-Shell).
+- Ghi chú thêm nếu có (ưu tiên phần nào, đã có bản Việt hóa nào khác chưa…).
+
+Trước khi tạo, hãy xem [các Issue đã có](https://github.com/chungtran4078/NSW-Viethoa/issues?q=is%3Aissue) để tránh trùng — nếu game đã được yêu cầu, thả 👍 vào Issue đó.
 
 ## Lưu ý
 
