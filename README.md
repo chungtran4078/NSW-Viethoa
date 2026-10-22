@@ -15,6 +15,7 @@ Repo chỉ chứa file `.zip` cho từng game. Giải nén để lấy thư mụ
 | The Plucky Squire | 1.0.2 | `01006BD018B54000` | `The Plucky Squire 1.0.2.zip` |
 | Cars 3: Driven to Win | 1.0.2 | `0100744001588000` | `Cars 3_ Driven to Win 1.0.2.zip` |
 | Neighbours back From Hell | 1.0.0 | `010065F00F55A000` | `Neighbours back From Hell 1.0.0.zip` |
+| Mario Kart 8 Deluxe | 3.0.3 | `0100152000022000` | `Mario Kart 8 Deluxe 3.0.3.zip` |
 
 ## Yêu cầu
 
