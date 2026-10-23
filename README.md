@@ -75,11 +75,7 @@ Xóa thư mục `atmosphere/contents/<TitleID>` trên thẻ SD (hoặc thư mụ
 
 ## Yêu cầu Việt hóa game
 
-Muốn Việt hóa game nào, hãy [tạo Issue mới](https://github.com/chungtran4078/NSW-Viethoa/issues/new) với các thông tin:
-
-- Tên game và **phiên bản** đang chơi (ví dụ: `Mario Kart 8 Deluxe 3.0.3`).
-- **Title ID** của game (xem bằng DBI, Goldleaf hoặc NX-Shell).
-- Ghi chú thêm nếu có (ưu tiên phần nào, đã có bản Việt hóa nào khác chưa…).
+Muốn Việt hóa game nào, hãy [tạo Issue mới](https://github.com/chungtran4078/NSW-Viethoa/issues/new) ghi **tên game và phiên bản đang chơi** (ví dụ: `Mario Kart 8 Deluxe 3.0.3`).
 
 Trước khi tạo, hãy xem [các Issue đã có](https://github.com/chungtran4078/NSW-Viethoa/issues?q=is%3Aissue) để tránh trùng — nếu game đã được yêu cầu, thả 👍 vào Issue đó.
 
