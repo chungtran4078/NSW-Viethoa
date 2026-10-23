@@ -2,6 +2,8 @@
 
 Repo chứa file Việt hóa cho một số game Nintendo Switch, đóng gói theo dạng **LayeredFS** của Atmosphere.
 
+> Tất cả các game đều được Việt hóa rất tâm huyết: dịch đầy đủ **tiếng Việt có dấu**, font chữ được bổ sung các chữ cái tiếng Việt khớp với kiểu chữ gốc của game.
+
 Repo chỉ chứa file `.zip` cho từng game. Giải nén để lấy thư mục Title ID bên trong.
 
 Muốn Việt hóa game khác? [Tạo Issue yêu cầu tại đây](https://github.com/chungtran4078/NSW-Viethoa/issues/new) — xem mục [Yêu cầu Việt hóa game](#yêu-cầu-việt-hóa-game).
